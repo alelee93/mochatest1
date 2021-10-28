@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-10-28T03:43:18.475Z",
+    "end": "2021-10-28T03:43:18.876Z",
+    "duration": 401
+  },
+  "tests": [
+    {
+      "title": "sayHello() regresa 'hello'",
+      "fullTitle": "index.js sayHello() regresa 'hello'",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "sayHello() regresa un string",
+      "fullTitle": "index.js sayHello() regresa un string",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "suma() regresa la suma de 2 numeros dados",
+      "fullTitle": "index.js suma() regresa la suma de 2 numeros dados",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "sayHello() regresa 'hello'",
+      "fullTitle": "index.js sayHello() regresa 'hello'",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "sayHello() regresa un string",
+      "fullTitle": "index.js sayHello() regresa un string",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "suma() regresa la suma de 2 numeros dados",
+      "fullTitle": "index.js suma() regresa la suma de 2 numeros dados",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
